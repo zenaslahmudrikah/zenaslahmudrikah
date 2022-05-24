@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zenaslahmudrikah
+- 👋 Hi, I’m Zen Aslah Mudrikah
 - 👀 I’m interested in Data Analyst and Data Science
 
 <!---
